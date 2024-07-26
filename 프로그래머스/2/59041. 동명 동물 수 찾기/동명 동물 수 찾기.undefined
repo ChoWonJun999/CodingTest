@@ -1,0 +1,12 @@
+SELECT
+    s.*
+FROM (
+    SELECT
+        NAME        AS n
+        , COUNT(*)  AS c
+    FROM ANIMAL_INS
+    WHERE NAME IS NOT NULL
+    GROUP BY NAME
+) s
+WHERE s.c >= 2
+ORDER BY s.n
