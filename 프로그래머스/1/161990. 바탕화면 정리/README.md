@@ -1,10 +1,10 @@
 # [level 1] 바탕화면 정리 - 161990 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/161990?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/161990?language=python3) 
 
 ### 성능 요약
 
-메모리: 79.9 MB, 시간: 3.37 ms
+메모리: 10.2 MB, 시간: 0.55 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 28일 17:32:05
+2024년 07월 28일 17:40:30
 
 ### 문제 설명
 
